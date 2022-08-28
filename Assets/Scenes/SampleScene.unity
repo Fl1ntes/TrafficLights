@@ -511,26 +511,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TrafficLight (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 6815950591914820007, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 6815950591914820007, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 6815950591914820007, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 6815950591914820007, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 2.229
-      objectReference: {fileID: 0}
-    - target: {fileID: 6815950591914820007, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.165
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1960abd68d38a94469fc5c7575c56080, type: 3}
 --- !u!1001 &983065720147296581
